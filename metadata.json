@@ -1,0 +1,6 @@
+{
+  "name": "Payment Gateway Sandbox",
+  "description": "An interactive developer dashboard and checkout sandbox to design custom storefronts, configure test payment methods, and simulate API payments with real-time logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
